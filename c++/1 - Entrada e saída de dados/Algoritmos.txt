@@ -1,0 +1,2 @@
+Base/Receita da programação.
+Sequencia de fatos lógicos para resolver problemas.

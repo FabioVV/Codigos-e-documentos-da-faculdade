@@ -1,0 +1,5 @@
+Exemplo de calculo de média
+
+(Entrada)E: 3-Números
+(Processo)P: Somar e Dividir
+(Saída)S: Média
